@@ -1,2 +1,3 @@
 alert("nihao");
-document.write("name")
+document.write("name");
+alert("开始写项目了");
